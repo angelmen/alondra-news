@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Clean Blog Preview](https://startbootstrap.com/assets/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
+[![Alondra NEWS](https://a-news.glitch.me/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
+**[Alondra NEWS](https://a-news.glitch.me/)**
 
 ## Status
 
