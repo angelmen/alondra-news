@@ -4,8 +4,6 @@
 
 ## Preview
 
-[![Alondra NEWS]](https://a-news.glitch.me/)
-
 **[Alondra NEWS](https://a-news.glitch.me/)**
 
 ## Status
